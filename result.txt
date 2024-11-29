@@ -1,0 +1,188 @@
+```json
+{
+  "from": "670 S Apollo Blvd, Melbourne, FL",
+  "to": "5600 S WASHINGTON AVE, TITUSVILLE, FL",
+  "vin": "3N1CP5BV6NL477463",
+  "vehicle_maker": "Nissan"
+}
+```
+```json
+{
+  "from": "520 W International Speedway Blvd Daytona Beach, FL 32114",
+  "to": "5600 S WASHINGTON AVE TITUSVILLE, FL 32780",
+  "vin": "1C4HJXFN2MW630925",
+  "vehicle_maker": "2021 Jeep WRANG RUB UNLIMITED"
+}
+```
+```json
+{
+  "from": "1210 S Andrews Ave, Pompano Beach",
+  "to": "5600 S WASHINGTON AVE, TITUSVILLE, FL 32780",
+  "vin": "1C4HJXDN0MW683125",
+  "vehicle_maker": "Jeep"
+}
+```
+```json
+{
+  "from": "Manheim, 10799 Atlantic Blvd, Jacksonville, FL 32225",
+  "to": "PARKS CDJR SPACE COAST LLC, 5600 S WASHINGTON AVE, TITUSVILLE, FL 32780",
+  "vin": "1FTER4EH7MLD91489",
+  "vehicle_maker": "Ford"
+}
+```
+```json
+{
+  "from": "12822 W Colonial Dr, Winter Garden",
+  "to": "5600 S WASHINGTON AVE, TITUSVILLE",
+  "vin": "1GCCDE0K0NZ583939",
+  "vehicle_maker": "Chevrolet"
+}
+```
+```json
+{
+  "from": "Manheim Palm Beach 600 Sansbury's Way West Palm Beach, FL 33411",
+  "to": "PARKS CJDR SPACE COAST LLC 5600 S WASHINGTON AVE TITUSVILLE, FL 32780",
+  "vin": "1C4RJEAGXMC814366",
+  "vehicle_maker": "Jeep"
+}
+```
+```json
+{
+  "from": "665 Ne 6 Th Ave Delray Beach, FL 33483",
+  "to": "5600 S WASHINGTON AVE TITUSVILLE, FL 32780",
+  "vin": "KM8K33A35NU680286",
+  "vehicle_maker": "Hyundai"
+}
+```
+```json
+{
+  "from": "Manheim Fort Lauderdale, DAVIE, FL",
+  "to": "JACK HANANIA CHEVROLET, ST AUGUSTINE, FL",
+  "vin": "1GT49WEY2PF197656",
+  "vehicle_maker": "GMC"
+}
+```
+```json
+{
+  "from": "Manheim Fort Lauderdale 5353 S STATE ROAD 7 DAVIE, FL 33314-6403",
+  "to": "JACK HANANIA CHEVROLET 2255 US HIGHWAY 1 S ST AUGUSTINE, FL - 32086",
+  "vin": "1GYS4BKJ4KR218126",
+  "vehicle_maker": "Cadillac"
+}
+```
+```json
+{
+  "From": "6916 BLANDING BLVD, JACKSONVILLE, FL 32244",
+  "To": "963 WYMORE RD, WINTER PARK, FL 32789",
+  "VIN": "5UXJ2EM09R258635",
+  "Vehicle_Maker": "BMW"
+}
+```
+```json
+{
+  "from": "Coggin Buick GMC of Orange Park",
+  "to": "Exodus Nissan, 14125 W Wade Hampton Blvd, Greer, SC",
+  "vin": "1FTEW1CP3PKD38326",
+  "vehicle_maker": "2023 Ford F-150XL RWD"
+}
+```
+```json
+{
+  "from": "Margaret Lawless/Douglas Smith, 1121 Rental Car Road, Sarasota, FL",
+  "to": "Asbury Automotive Group Inc., 10851 Philips Hwy, Jacksonville, FL",
+  "vin": "5N1BT3CB4PC708267",
+  "vehicle_maker": "NISSAN"
+}
+```
+```json
+{
+  "FALSE": "The image is not related to 'from address' and 'to address'."
+}
+```
+```json
+{
+  "from": "FIELDS CADILLAC ST AUGUSTINE, 375 OUTLET MALL BLVD, ST AUGUSTINE, FL, 32084",
+  "to": "BMW LAKELAND",
+  "vin": "1GCAPBEK0NZ567202",
+  "vehicle_maker": "CHEVROLET"
+}
+```
+```json
+{
+  "from": "Manheim Nashville 8400 Eastgate Blvd Mount Juliet, TN",
+  "to": "INFINITI OF TAMPA 4600 N DALE MABRY HWY TAMPA, FL - 33614",
+  "vin": "JN1EV7CP3PM543309",
+  "vehicle_maker": "2023 Infiniti Q50 SENS SENS"
+}
+```
+```json
+{
+  "from": "Manheim Nashville, 8400 Eastgate Blvd, Mount Juliet, TN",
+  "to": "INFINITI OF TAMPA, 4600 N DALE MABRY HWY, TAMPA, FL",
+  "vin": "JN1FV7DR1MM680433",
+  "vehicle_maker": "Infiniti"
+}
+```
+```json
+{
+  "from_address": "FALSE",
+  "to_address": "FALSE",
+  "vin": "FALSE",
+  "vehicle_maker": "FALSE"
+}
+```
+```json
+FALSE
+```
+```json
+[
+    {
+        "from": "Courtesy Hyundai Tampa",
+        "to": "SPAA",
+        "vin": "5NPET46C99H536905",
+        "vehicle_maker": "Hyundai"
+    },
+    {
+        "from": "Adesa Jax",
+        "to": "Customers Home for IOP",
+        "vin": "2C3CDYBT3EH111088",
+        "vehicle_maker": "Dodge"
+    },
+    {
+        "from": "FREELAND CDJR, LLC",
+        "to": "Infiniti of Tampa",
+        "vin": "1C6RRFG9RN166530",
+        "vehicle_maker": "RAM"
+    },
+    {
+        "from": "Fields Cad OP",
+        "to": "Longwood",
+        "vin": "LZ174310",
+        "vehicle_maker": "Cadillac"
+    },
+    {
+        "from": "Arlington Toyota",
+        "to": "Man Daytona",
+        "vin": "",
+        "vehicle_maker": "Toyota"
+    },
+    {
+        "from": "Avis Jax",
+        "to": "Man Daytona",
+        "vin": "KNDJP3A58G7293238",
+        "vehicle_maker": "Kia"
+    },
+    {
+        "from": "Avis Jax",
+        "to": "Man Daytona",
+        "vin": "3VW637AJ3DM237910",
+        "vehicle_maker": "Volkswagen"
+    },
+    {
+        "from": "Avis Jax",
+        "to": "Man Daytona",
+        "vin": "3N6CM0KN3MK691689",
+        "vehicle_maker": "Nissan"
+    }
+]
+```

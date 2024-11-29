@@ -1,0 +1,5 @@
+.env
+attachments/
+credentials/
+__pycache__/
+env/
